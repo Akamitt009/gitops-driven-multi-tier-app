@@ -346,7 +346,7 @@ Monitoring operational.
 
 ### Enterprise Architecture
 
-![AKS Validation](images/01-aks-cluster-validation.png)
+![AKS Validation](images/01-aks-cluster-validation.PNG)
 
 ![ArgoCD Dashboard](images/argocd-applications-dashboard.PNG)
 
