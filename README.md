@@ -346,25 +346,25 @@ Monitoring operational.
 
 ### Enterprise Architecture
 
-![AKS Validation](01-aks-cluster-validation.png)
+![AKS Validation](images/aks-cluster-validation.png)
 
-![ArgoCD Dashboard](argocd-applications-dashboard.PNG)
+![ArgoCD Dashboard](images/argocd-applications-dashboard.PNG)
 
-![Deployment Tree](argocd-deployment-topology.PNG)
+![Deployment Tree](images/argocd-deployment-topology.PNG)
 
-![Redis Backend](redis-backend-deployment.PNG)
+![Redis Backend](images/redis-backend-deployment.PNG)
 
-![Grafana Monitoring](grafana-cluster-monitoring.PNG)
+![Grafana Monitoring](images/grafana-cluster-monitoring.PNG)
 
-![GitHub Repo](github-repository-structure.PNG)
+![GitHub Repo](images/github-repository-structure.PNG)
 
-![Observability](grafana-observability-dashboard.PNG)
+![Observability](images/grafana-observability-dashboard.PNG)
 
-![Message Submit](guestbook-message-submit.PNG)
+![Message Submit](images/guestbook-message-submit.PNG)
 
-![Live Application](guestbook-live-application.PNG)
+![Live Application](images/guestbook-live-application.PNG)
 
-![Jenkins Pipeline](jenkins-cicd-pipeline.PNG)
+![Jenkins Pipeline](images/jenkins-cicd-pipeline.PNG)
 
 ---
 
