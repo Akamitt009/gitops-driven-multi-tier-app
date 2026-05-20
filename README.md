@@ -344,47 +344,27 @@ Monitoring operational.
 
 ---
 
-## 📸 Project Screenshots
-
 ### Enterprise Architecture
 
-![Architecture](images/01-project-overview.png)
+![AKS Validation](images/01-aks-cluster-validation.png)
 
----
+![ArgoCD Dashboard](images/02-argocd-applications-dashboard.png)
 
-### Jenkins CI/CD Pipeline
+![Deployment Tree](images/03-argocd-deployment-topology.png)
 
-![Pipeline](images/10-jenkins-cicd-pipeline.png)
+![Redis Backend](images/04-redis-backend-deployment.png)
 
----
+![Grafana Monitoring](images/05-grafana-cluster-monitoring.png)
 
-### ArgoCD Deployment
+![GitHub Repo](images/06-github-repository-structure.png)
 
-![ArgoCD](images/02-argocd-applications.png)
+![Observability](images/07-grafana-observability-dashboard.png)
 
----
+![Message Submit](images/08-guestbook-message-submit.png)
 
-### Deployment Validation
+![Live Application](images/09-guestbook-live-application.png)
 
-![Sync](images/03-argocd-sync-status.png)
-
----
-
-### Cluster Monitoring
-
-![Monitoring](images/05-grafana-cluster-monitoring.png)
-
----
-
-### Grafana Dashboard
-
-![Grafana](images/07-grafana-dashboard.png)
-
----
-
-### Application Deployment
-
-![Application](images/09-guestbook-application.png)
+![Jenkins Pipeline](images/10-jenkins-cicd-pipeline.png)
 
 ---
 
